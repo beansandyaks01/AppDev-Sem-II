@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DaysOfWeek;
+﻿namespace DaysOfWeek;
 
 public class DateChecker
 {
