@@ -1,0 +1,15 @@
+C:\Users\binayak\source\repos\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.csproj.AssemblyReference.cache
+C:\Users\binayak\source\repos\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binayak\source\repos\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.AssemblyInfoInputs.cache
+C:\Users\binayak\source\repos\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.AssemblyInfo.cs
+C:\Users\binayak\source\repos\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\binayak\source\repos\DaysOfWeek\bin\Debug\net6.0\DaysOfWeek.exe
+C:\Users\binayak\source\repos\DaysOfWeek\bin\Debug\net6.0\DaysOfWeek.deps.json
+C:\Users\binayak\source\repos\DaysOfWeek\bin\Debug\net6.0\DaysOfWeek.runtimeconfig.json
+C:\Users\binayak\source\repos\DaysOfWeek\bin\Debug\net6.0\DaysOfWeek.dll
+C:\Users\binayak\source\repos\DaysOfWeek\bin\Debug\net6.0\DaysOfWeek.pdb
+C:\Users\binayak\source\repos\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.dll
+C:\Users\binayak\source\repos\DaysOfWeek\obj\Debug\net6.0\refint\DaysOfWeek.dll
+C:\Users\binayak\source\repos\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.pdb
+C:\Users\binayak\source\repos\DaysOfWeek\obj\Debug\net6.0\DaysOfWeek.genruntimeconfig.cache
+C:\Users\binayak\source\repos\DaysOfWeek\obj\Debug\net6.0\ref\DaysOfWeek.dll
